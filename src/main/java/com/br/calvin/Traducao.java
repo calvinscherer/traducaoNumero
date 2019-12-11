@@ -10,7 +10,7 @@ public class Traducao {
 	
 	@RequestMapping(method=RequestMethod.GET)
 	public String listar() {
-		return "REST está oK";
+		return "REST está oK v2";
 	}
 
 }
