@@ -1,1 +1,1 @@
-criando.
+Sistema desenvolvido em JAVA com Spring. Utilizei como IDE a STS. Segue o link: https://spring.io/tools3/sts/all. O sistema foi desenvolvido para a participação do processo seletivo Desafio Líder técnico em Desenvolvimento de Software da CERTI.
